@@ -105,7 +105,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [2.0.0] – 2026-10 – Formative 2 Part 2 (Responsive + Polish)
+## [2.0.0] – 2026-10 – Formative 2 Part 1,2,3 (Responsive + Polish)
 
 ### Added
 - Full responsive design with three breakpoints:
